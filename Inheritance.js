@@ -18,7 +18,7 @@ class SupportInstructor extends HeroTeam {
     this.time = time;
   }
   startSession() {
-    console.log(this.name + " Please start a conference for student ");
+    console.log(this.name + " Please start a conference for student Immidietly");
   }
 }
 //admin class
