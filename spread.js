@@ -12,7 +12,7 @@ console.log("Minimum is " + min);
 // ages.push(300);
 // console.log(ages2);
 
-//creating new array with previous array values
+//creating new array with previous array values 
 const ages2 = [...ages, 900]; //we can add new value in front and later of ...
 ages.push(300);
 console.log(ages2);
