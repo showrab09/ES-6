@@ -32,6 +32,6 @@ const company = {
     },
   },
 };
-
+//optional chaining
 console.log(company?.web?.tech?.third);
 console.log(company?.backend?.tech.third);
